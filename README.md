@@ -1,6 +1,6 @@
-# vuensol
+# vue-adminlte
 
-> Prototipo para la implementacion de Vue en la aplicacion SOL de Argentina.
+> Prototipo para la implementacion de Vue con el dashboard Adminlte.
 
 ## Build Setup
 
